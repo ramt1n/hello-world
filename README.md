@@ -1,1 +1,2 @@
 echo diffs
+echo diffs
